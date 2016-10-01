@@ -8,6 +8,6 @@ __author__ = "Xinyuan Wang"
 __copyright__ = "Xinyuan Wang"
 __license__ = "mit"
 
-
+#changed
 def test_main():
     assert main(["tests/test2.sl"])=='7'
